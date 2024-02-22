@@ -1,6 +1,6 @@
 -- CONFIG
 local c_turtle = {x = 10, y = 67, z = 0, f = 0}  -- turtle spawn coordinates
--- f is for facing: 0 - south, 90 - west, 180 - north, 270 - east
+-- f is for facing: 0 - west, 90 - north, 180 - east, 270 - south
 local branch_lenght = 8
 local subbr_lenght = 10
 local subbr_width = 4       -- even numbers more time-effective
